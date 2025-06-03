@@ -101,7 +101,7 @@ redirect_from:
         </p>
         
         <p>
-My dream is to contribute to making AI an everyday tool, just like calculators and smartphones.
+My dream is contributing to making AI an everyday tool, just like calculators and smartphones.
         </p>
         
     <div class="columns">
@@ -109,8 +109,8 @@ My dream is to contribute to making AI an everyday tool, just like calculators a
         <h3> Interests </h3>
         <ul class="inside">
           <li> Deep Learning : Anomaly Detection, OOD detection </li>
-          <li> Generative AI : Language model, Diffusion model </li>
-          <li> Data-centric AI </li>
+          <li> Generative AI : LLM, Diffusion model </li>
+          <li> Data science </li>
         </ul>
       </div>
 
@@ -200,7 +200,7 @@ My dream is to contribute to making AI an everyday tool, just like calculators a
         </div>        
       
         <div class="column6">
-          <p> <img src="https://github.com/int141312/int141312.github.io/blob/gh-pages/images/fig2.png?raw=true"> </p>
+          <!-- <p> <img src="https://github.com/int141312/int141312.github.io/blob/gh-pages/images/fig2.png?raw=true"> </p>  -->
           <p> <img src="https://github.com/int141312/int141312.github.io/blob/gh-pages/images/fig3.png?raw=true"> </p>
         </div>
       
