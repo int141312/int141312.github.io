@@ -238,6 +238,18 @@ My dream is contributing to making AI an everyday tool, just like calculators an
           <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Why-Cross-Entropy-4f0809c9077f4bde8cccfa80d849d1b9?pvs=4" ' > <h3 style = "margin-top: 0; margin-bottom: 0; "> Why Cross Entropy? </h3> </div>
           
         </div>
+
+        <div class="column6"> 
+
+          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/AI-21638beeb016801bb2a1d0cb270f7629?source=copy_link" ' > <h3 style = "margin-top: 0; margin-bottom: 0; "> AI History </h3> </div>
+
+          <br>
+
+          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/How-AI-is-changing-the-world-8d2db8129d5f439bbaecbfbe8d6c6876?source=copy_link" ' > <h3 style = "margin-top: 0; margin-bottom: 0; "> How AI is changing the world </h3> </div>
+          
+        </div>
+
+        
       </div>
       
     </div>
