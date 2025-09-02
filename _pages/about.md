@@ -225,6 +225,10 @@ My dream is contributing to making AI an everyday tool, just like calculators an
 
           <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Diffusion-model-Background-9b61df6e3d8846a2a55c378a8024bfa1?pvs=4" ' > <h3 style = "margin-top: 0; margin-bottom: 0; "> Diffusion model Background </h3> </div>
 
+          <br>
+
+          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/History-of-Large-Language-Model-LLM-Transformer-Attention-Mechanism-21838beeb01680fb9d54d70993c0dd4f?pvs=74" ' > <h3 style = "margin-top: 0; margin-bottom: 0; "> History of Large Language Model(LLM) & Transformer, Attention Mechanism </h3> </div>
+
         </div>
 
 
@@ -236,8 +240,14 @@ My dream is contributing to making AI an everyday tool, just like calculators an
           <br>
 
           <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Why-Cross-Entropy-4f0809c9077f4bde8cccfa80d849d1b9?pvs=4" ' > <h3 style = "margin-top: 0; margin-bottom: 0; "> Why Cross Entropy? </h3> </div>
+
+          <br>
+
+          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Influence-function-Model-Sensitivity-24c38beeb016800c9597d4a6f7910d0b?pvs=74" ' > <h3 style = "margin-top: 0; margin-bottom: 0; "> Influence function & Model Sensitivity </h3> </div>
           
         </div>
+
+
 
         <div class="column6"> 
 
