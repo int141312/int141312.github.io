@@ -108,8 +108,8 @@ My dream is contributing to making AI an everyday tool, just like calculators an
       <div class="column3">
         <h3> Interests </h3>
         <ul class="inside">
-          <li> Deep Learning : Anomaly Detection, OOD detection </li>
-          <li> Generative AI : LLM, Diffusion model </li>
+          <li> Deep Learning </li>
+          <li> Generative AI </li>
           <li> Data science </li>
         </ul>
       </div>
@@ -117,9 +117,11 @@ My dream is contributing to making AI an everyday tool, just like calculators an
       <div class="column2">
         <h3> Education </h3>
         <ul class="inside">
-          <li> Gwangju Institute of Science and Technology <br> (2023-2025) M.S in Artificial Intelligence  </li>
+          <li> 2026~. Ph.D candidate. Artificial Intelligence, Seoul National University </li>
+        
+          <li> 2025. M.S. Artificial Intelligence, Gwangju Institute of Science and Technology (GIST) </li>
            
-          <li> Ulsan National Institute of Science and Technology <br> (2014-2019) B.S in Physics, minor in Nuclear Science and Engineering </li> 
+          <li> 2019. B.S. Physics, Ulsan National Institute of Science and Technology (UNIST)   </li> 
           
         </ul>
         
